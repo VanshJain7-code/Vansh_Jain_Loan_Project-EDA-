@@ -1,4 +1,5 @@
-# Vansh_Jain_Loan_Project-EDA-
+# Vansh_Jain_Loan_Project-EDA
+This project explores a loan dataset using Python in Jupyter Notebook. The primary objective is to uncover meaningful insights and patterns that influence loan approval status. It involves detailed preprocessing, visualization, and interpretation to support business decision-making in the financial domain.
 
 # Key Objectives:
 Understand the distribution and relationships of variables affecting loan approval.
